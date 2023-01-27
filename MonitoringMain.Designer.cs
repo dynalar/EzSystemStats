@@ -1,6 +1,6 @@
 ﻿namespace EzSystemStats
 {
-    partial class Form1
+    partial class MonitoringMain
     {
         /// <summary>
         ///  Required designer variable.
