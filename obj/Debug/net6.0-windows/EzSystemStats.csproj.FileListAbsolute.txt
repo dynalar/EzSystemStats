@@ -1,0 +1,17 @@
+C:\Users\brant\source\repos\EzSystemStats\bin\Debug\net6.0-windows\EzSystemStats.exe
+C:\Users\brant\source\repos\EzSystemStats\bin\Debug\net6.0-windows\EzSystemStats.deps.json
+C:\Users\brant\source\repos\EzSystemStats\bin\Debug\net6.0-windows\EzSystemStats.runtimeconfig.json
+C:\Users\brant\source\repos\EzSystemStats\bin\Debug\net6.0-windows\EzSystemStats.dll
+C:\Users\brant\source\repos\EzSystemStats\bin\Debug\net6.0-windows\EzSystemStats.pdb
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.csproj.AssemblyReference.cache
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.Form1.resources
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.csproj.GenerateResource.cache
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.AssemblyInfoInputs.cache
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.AssemblyInfo.cs
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.csproj.CoreCompileInputs.cache
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.dll
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\refint\EzSystemStats.dll
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.pdb
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\EzSystemStats.genruntimeconfig.cache
+C:\Users\brant\source\repos\EzSystemStats\obj\Debug\net6.0-windows\ref\EzSystemStats.dll
