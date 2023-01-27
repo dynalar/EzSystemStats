@@ -9,7 +9,7 @@ namespace EzSystemStats
     public partial class MonitoringMain : Form
     {
         public NotifyIcon trayIcon;
-        public Thread systemTelemetryWorker;
+        public Thread? systemTelemetryWorker;
 
         public MonitoringMain()
         {
@@ -20,10 +20,11 @@ namespace EzSystemStats
 
             InitializeComponent();
 
-            // application starts minimized, and runs in the background.
-            // suppresses the window from popping up
+            // application starts minimized, suppresses form window.
             this.WindowState = FormWindowState.Minimized;
             this.ShowInTaskbar = false;
+
+            // display the tray icon
             trayIcon.Visible = true;
         }
 
